@@ -19,7 +19,7 @@ Anaconda
 
 #### Jupyter Notebook
 
-#### Variabls & Control Flow
+#### Variables & Control Flow
 Assigning variables
 Use of whitespace (required in Python, helps readability in all languages)
 Lists (Arrays), Dictionaries (Objects), json
@@ -29,6 +29,11 @@ Loops: if/then/else, for, while
 What are they?
 How do I get them?
 Why do I want them?
+
+#### Environments
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+What are they?
+Why to I want to use them?
 
 #### Running a Python Script
 
